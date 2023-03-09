@@ -19,3 +19,6 @@ api/src/lib/generateGraphiQLHeader.*
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+!node_modules/@redwoodjs/core/config/webpack.common.js
+!node_modules/@redwoodjs/router/dist/active-route-loader.js
