@@ -9,6 +9,8 @@
 
 import { Router, Route } from '@redwoodjs/router'
 
+import AboutPage from 'src/pages/AboutPage'
+
 const Routes = () => {
   return (
     <Router>
